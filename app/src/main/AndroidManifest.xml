@@ -1,0 +1,27 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.practica1individualeventos">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
+
+        <!-- Actividad Principal (Pantallamain) -->
+        <activity android:name=".PantallaMain"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Actividad para cambiar el nombre (RegistroActivity) -->
+        <activity android:name=".RegistroActivity" />
+        <!-- Actividad para cambiar el color (ColorActivity) -->
+        <activity android:name=".ColorActivity" />
+
+    </application>
+</manifest>
