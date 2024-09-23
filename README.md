@@ -1,4 +1,4 @@
-Este es mi repositorio fe github: https://github.com/Jmrodrival04/Practica1IndividualEventos2.0.git
+Este es mi repositorio de github: https://github.com/Jmrodrival04/Practica1IndividualEventos2.0.git
 
 Esta aplicación, desarrollada en Android Studio, permite a los usuarios personalizar su experiencia en el dispositivo móvil de manera sencilla y visualmente atractiva. Con un enfoque en la personalización básica, la aplicación ofrece la funcionalidad de cambiar el nombre del usuario en la pantalla principal, junto con la opción de seleccionar entre tres colores de fondo: rojo, verde o azul.
 
